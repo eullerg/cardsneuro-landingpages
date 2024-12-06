@@ -1,4 +1,4 @@
-import React from "react";
+
 import cardsimage from "../assets/aboutme-image.jpg";
 
 const About = () => {

@@ -1,4 +1,4 @@
-import React from "react";
+
 import cardsfisico from "../assets/cards-fisico.png";
 import imagemlivro from "../assets/imagem-livro.png";
 import nica from "../assets/nica.png";
