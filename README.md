@@ -22,7 +22,7 @@
 
 ### 🛠️ Visualizar a Ladingpage para Cardsneuro
 
-Para acessar a landingpage do **Cardsneuro**, basta clicar neste link **~em construção~** 
+Para acessar a landingpage do **Cardsneuro**, basta clicar neste link **(https://cardsneuropsicologicos.netlify.app/)** 
 
 
 ### Contato
